@@ -1,21 +1,13 @@
 {
-  "orgName": "Buildathon AI Case Dashboard",
+  "orgName": "Buildathon Lead Routing",
   "edition": "Developer",
-  "features": [
-    "SalesUser",
-    "DevelopmentWave",
-    "Einstein1AIPlatform",
-    "ServiceCloud"
-  ],
+  "features": ["SalesUser", "DevelopmentWave"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
-    },
-    "einsteinGptSettings": {
-      "enableEinsteinGptPlatform": true
     }
   }
 }
